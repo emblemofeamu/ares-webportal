@@ -72,7 +72,7 @@
     "ember-macro-helpers": "^4.2.2",
     "ember-page-title": "^6.0.1",
     "ember-pikaday": "^3.0.0",
-    "ember-power-select": "^4.0.5",
+    "ember-power-select": "^6.0.1",
     "ember-qunit": "^4.6.0",
     "ember-resolver": "^8.0.2",
     "ember-simple-auth": "^3.0.0",
